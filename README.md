@@ -1,7 +1,7 @@
 # Client-Server-Development-Learning
 Module One
 You have been given a preloaded database containing email documents…….Exit MongoDB and return to the Linux prompt. Using the database provided, execute the following administrative commands:
-Load the database by executing the following at the Linux command line in the terminal you opened:
+Load the database by executing the following at the Linux command line in the terminal:
 	○ cd /usr/local/datasets
 	○ mongoimport --username="${MONGO_USER}" --password="${MONGO_PASS}" --port=${MONGO_PORT} --host=${MONGO_HOST} --db enron --collection emails --authenticationDatabase admin --drop ./enron.json
 
