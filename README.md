@@ -82,7 +82,7 @@ b. What is the difference in the date data type for the business named “AUSTIN
 	○ The difference in the date data type from the business name "AUSTIN 2012" verses my business document insertion of "ACME Explosives" is that for the ACME Explosives, the date type has a format of WEEK DAY-MONTH-DAY-YEAR, including a time stamp of hour-minutes-milliseconds (coordinated universal time). On the other hand, the AUSTIN 2012 only contains MONTH-DAY-YEAR and does not have a time stamp.
 
 
-c. How many businesses have a “Violation Issued”? (See Value column above.)
+c. How many businesses have a “Violation Issued”?
 	○ used db.inspections.count({"result" : "Violation Issued"})
 	○ 13823 businesses have a violation issued 
 
