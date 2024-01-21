@@ -1,4 +1,5 @@
 # Client-Server-Development-Learning
+** keep in mind that i am utalizing Apporto Virtual lab for this example since that's what my school provides **
 Module One
 You have been given a preloaded database containing email documents…….Exit MongoDB and return to the Linux prompt. Using the database provided, execute the following administrative commands:
 Load the database by executing the following at the Linux command line in the terminal:
